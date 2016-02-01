@@ -1,5 +1,5 @@
 {
-  "name": "brush-as3",
+  "name": "@alexgorbatchev/brush-as3",
   "version": "4.0.0",
   "description": "as3 brush module for SyntaxHighlighter.",
   "keywords": [
