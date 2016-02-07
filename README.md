@@ -7,21 +7,9 @@
 
 ActionScript3 brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
 
-## Installation
-
-```
-npm install brush-as3
-```
-
 ## Usage
 
 Please see [Building Instructions](https://github.com/syntaxhighlighter/syntaxhighlighter/wiki/Building) on the [SyntaxHighlighter Wiki](https://github.com/syntaxhighlighter/syntaxhighlighter/wiki) for details.
-
-## Testing
-
-```
-npm test
-```
 
 ## License
 
